@@ -1,0 +1,23 @@
+body {
+
+}
+
+
+.p5Canvas{
+  /*margin: 200px 200px 0px 200px;*/
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+video {
+  filter: drop-shadow(-20px 20px 32px #4444dd);
+  /*filter: drop-shadow(20px 20px 12px #eeff41ff);*/
+  position: sticky;
+  left: 10%;
+  transform: skewY(-10deg);
+	width: 320px;
+	height: auto;
+}
