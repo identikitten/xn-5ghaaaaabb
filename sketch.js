@@ -37,7 +37,7 @@ function draw() {
 
   let time = millis();
   rotateX(time / 2000);
-  //rotateZ(time / 1234);
+  rotateZ(time / 1234);
 
 
 
