@@ -50,7 +50,7 @@ function draw() {
 }
 
 function mouseClicked(){
-  loop();
+  //loop();
 }
 
 function gotStream(stream) {
